@@ -1,0 +1,14 @@
+{
+  "name": "mesa-infinita",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "RPG de mesa solo no navegador: fichas, dados, oráculo e geradores com arte procedural.",
+  "scripts": {
+    "start": "node dev/serve.mjs",
+    "dev": "node dev/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
